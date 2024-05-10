@@ -1,0 +1,19 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "first try",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "nmoger58",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
